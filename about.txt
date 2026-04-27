@@ -1,4 +1,4 @@
 my name is khdijah
-my field is information technlogy
-my favorite programing language is python
-i want to learn git and github
+my field is IT
+my favorite programing language is python, css,html,sql,
+i want to learn git and github to manage code and project.
