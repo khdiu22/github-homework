@@ -1,6 +1,3 @@
-my skills and interests:
-problem solving
-communication
-programaing 
-teamwork
-microsoft office
+# Git & Github Homework
+student:khdijah
+Course: Foundation Bootcamp programming
