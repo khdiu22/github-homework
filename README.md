@@ -1,3 +1,3 @@
 # Git & Github Homework
 student:khdijah
-Course: Foundation Bootcamp programming
+Course: Foundation Bootcamp-programming
