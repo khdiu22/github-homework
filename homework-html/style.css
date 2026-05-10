@@ -1,0 +1,44 @@
+body {
+    background-color: #685c5c;
+    margin: 20px;
+    padding: 20px;
+    color: #534c4c;
+    font-family: Arial;
+}
+
+.navbar {
+    background-color: #222;
+    padding: 14px;
+}
+
+.navbar a {
+    color: white;
+    margin-right: 14px;
+    text-decoration: none;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.text {
+    color: rgb(158, 158, 220);
+}
+
+#main-title {
+    color: rgb(198, 125, 125);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid rgb(89, 20, 80);
+    padding: 10px;
+}
+
+
