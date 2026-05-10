@@ -1,13 +1,13 @@
 body {
-    background-color: #685c5c;
+    background-color: #ffeef2;
     margin: 20px;
     padding: 20px;
-    color: #534c4c;
+    color: #4a2c2a;
     font-family: Arial;
 }
 
 .navbar {
-    background-color: #222;
+    background-color: #d48ca3;
     padding: 14px;
 }
 
@@ -19,6 +19,38 @@ body {
 
 .container {
     background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.text {
+    color: #6b3e4e;
+}
+
+#main-title {
+    color: #b03060;
+}
+
+table, th, td {
+    border: 1px solid #b03060;
+    border-collapse: collapse;
+    padding: 10px;
+    color: #4a2c2a;
+}
+
+.navbar {
+    background-color: #222;
+    padding: 14px;
+}
+
+.navbar a {
+    color: rgb(196, 172, 172);
+    margin-right: 14px;
+    text-decoration: none;
+}
+
+.container {
+    background-color: rgb(202, 172, 172);
     padding: 20px;
     margin-top: 20px;
 }
